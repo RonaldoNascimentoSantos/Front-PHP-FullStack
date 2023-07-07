@@ -7,7 +7,7 @@ Teste Desenvolvedor Fullstack (PHP)
 ## Instalação
 Baixando o projeto.
 ```sh
-git clone https://github.com/karenyov/testePHP_UI.git
+git clone : https://github.com/RonaldoNascimentoSantos/Front-PHP-FullStack
 ```
 
 Na raiz do projeto abra o terminal e execute o comando:
